@@ -1,6 +1,17 @@
 # InstagramClone
 A clone version of Instagram using Swift with data from Firebase and dummy data.
 
+## Features
+* Sign Up
+* Login
+* NewsFeed
+* Search
+* Account
+## Usage
+If you want to experience real-time login and sign up feature, please go to Firebase official website and follow the instructions of creating a new project. Please choose Firestore while creating your new project in Firebase.
+* Firestore Structure: userinfo -> userUID ->fullname, username
+<img width="1257" alt="Screen Shot 2021-03-20 at 6 26 22 PM" src="https://user-images.githubusercontent.com/45663672/111868056-577a2380-89aa-11eb-82e1-faf78742e6e3.png">
+ 
 ## Screenshots
 ### LogIn
 ![LogIn](https://user-images.githubusercontent.com/45663672/111023677-f0d69200-840c-11eb-9029-cd5cb6371f61.gif)
