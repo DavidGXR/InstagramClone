@@ -1,5 +1,5 @@
 # InstagramClone
-A clone version of Instagram using Swift with data from Firebase and dummy data.
+A clone version of Instagram using Swift with data from Firebase and local dummy data.
 
 ## Features
 * Sign Up
